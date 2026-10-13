@@ -22,7 +22,7 @@
     "sub_wait_minutes": 45,
     "sub_warm_minutes": 10,
     "host_region": "iran",
-    "ai_route": "direct",
+    "ai_route": "cloudflare",
     "route_google": true,
     "ai_effort": "medium",
     "ollama_base_url": "http:\/\/localhost:11434",
