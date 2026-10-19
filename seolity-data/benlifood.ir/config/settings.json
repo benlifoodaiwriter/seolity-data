@@ -69,7 +69,7 @@
     "sitemap_exclude_types": [
         "attachment"
     ],
-    "robots_custom": "",
+    "robots_custom": "User-agent: *\nDisallow: \/wp-content\/uploads\/wc-logs\/\nDisallow: \/wp-content\/uploads\/woocommerce_transient_files\/\nDisallow: \/wp-content\/uploads\/woocommerce_uploads\/\nDisallow: \/*?add-to-cart=\nDisallow: \/*?*add-to-cart=\nDisallow: \/wp-admin\/\nAllow: \/wp-admin\/admin-ajax.php\n\nSitemap: https:\/\/benlifood.ir\/sitemap_index.xml",
     "robots_override": false,
     "redirects_enabled": true,
     "log_404": true,
