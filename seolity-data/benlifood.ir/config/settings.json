@@ -67,7 +67,7 @@
     "alert_drop_percent": 25,
     "report_frequency": "weekly",
     "report_recipients": [],
-    "sitemap_enabled": "auto",
+    "sitemap_enabled": "on",
     "sitemap_exclude_types": [
         "attachment"
     ],
@@ -75,7 +75,7 @@
     "robots_override": false,
     "redirects_enabled": true,
     "log_404": true,
-    "log_404_bots": false,
+    "log_404_bots": true,
     "retention_days": 180,
     "schema_enabled": true,
     "org_type": "Organization",
