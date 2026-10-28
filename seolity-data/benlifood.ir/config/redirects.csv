@@ -1,5 +1,5 @@
 source,target,type,regex,hits,last_hit,status
-/.well-known/traffic-advice,,410,0,118,"2026-10-26 23:42:20",active
+/.well-known/traffic-advice,,410,0,129,"2026-10-28 00:47:03",active
 /wp-content/plugins/hellopress/wp_filemanager.php,,410,0,2,"2026-10-18 07:37:31",active
 /wp-content/uploads/2026/10/elementor/thumbs/دسته-بندی-چاشنی-با-روغن-1-150x150.webp,https://benlifood.ir/?elementor_library=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d9%88%d8%b1-%d8%a8%d8%a7%db%8c%da%af%d8%a7%d9%86%db%8c-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-15356,301,0,3,"2026-10-13 14:23:51",active
 /this_is_a_new_hello_world.php,,410,0,2,"2026-10-18 07:37:32",active
@@ -21,7 +21,7 @@ source,target,type,regex,hits,last_hit,status
 /radio.php,https://benlifood.ir/woodmart_layout/megaelectronic_checkout-layout-mega-electronics-2/,301,0,2,"2026-10-18 07:38:59",active
 /bro.php,https://benlifood.ir/?elementor_library=deh-homepage,301,0,2,"2026-10-18 07:38:55",active
 /ops.php,https://benlifood.ir/?elementor_library=deh-homepage,301,0,0,,active
-/info.php,https://benlifood.ir/drink/,301,0,27,"2026-10-26 09:18:35",active
+/info.php,https://benlifood.ir/drink/,301,0,28,"2026-10-27 21:28:52",active
 /dex.php,https://benlifood.ir/?elementor_library=deh-homepage,301,0,0,,active
 /b8.php,https://benlifood.ir/summer-and-fermented-vegetables/,301,0,0,,active
 /av.php,https://benlifood.ir/vegan-kimchi-guide/,301,0,0,,active
@@ -98,7 +98,7 @@ source,target,type,regex,hits,last_hit,status
 /wp-content/themes/classic/inc,https://benlifood.ir/health-oriented-products/,301,0,0,,active
 /about.php,https://benlifood.ir/?elementor_library=deh-homepage,301,0,0,,active
 /images.php,https://benlifood.ir/wishlist/,301,0,0,,active
-/api,https://benlifood.ir/?elementor_library=deh-homepage,301,0,0,,active
+/api,https://benlifood.ir/?elementor_library=deh-homepage,301,0,3,"2026-10-27 21:41:45",active
 /components,https://benlifood.ir/?cms_block=sticky-navigation-hardware-components,301,0,0,,active
 /wp-content/uploads/2026/10/kimchi-vs-sauerkraut-difference-17177-768x768.jpg,https://benlifood.ir/woodmart_layout/%d9%86%d9%88%d8%b4%d8%aa%d9%87-%d8%aa%da%a9%db%8c-%d8%b7%d8%b1%d8%ad/,301,0,0,,active
 /1a.php,https://benlifood.ir/contact-us/,301,0,0,,active
@@ -120,7 +120,7 @@ source,target,type,regex,hits,last_hit,status
 /id,https://benlifood.ir/kimchi-sauerkraut-comparison/,301,0,0,,active
 /system,https://benlifood.ir/?elementor_library=deh-homepage,301,0,0,,active
 /lu.php,https://benlifood.ir/?elementor_library=product-archive2,301,0,0,,active
-/actuator/env,https://benlifood.ir/?cms_block=sticky-navigation-laptops-tablets-pcs,301,0,1,"2026-10-26 02:04:03",active
+/actuator/env,https://benlifood.ir/?cms_block=sticky-navigation-laptops-tablets-pcs,301,0,2,"2026-10-27 21:28:53",active
 /wp-the.php,https://benlifood.ir/?elementor_library=product-archive2,301,0,0,,active
 /son.php,https://benlifood.ir/?elementor_library=deh-homepage,301,0,0,,active
 /wp_.php,https://benlifood.ir/?elementor_library=benlifood-%da%a9%d8%a7%d8%b1%d9%88%d8%b3%d9%84-%d8%ae%d9%88%d8%af%da%a9%d8%a7%d8%b1-%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d9%86%d8%aa%d9%88%d8%b1,301,0,0,,active
@@ -148,7 +148,7 @@ source,target,type,regex,hits,last_hit,status
 /term.php,https://benlifood.ir/?elementor_library=deh-homepage,301,0,0,,active
 /panel,https://benlifood.ir/buy-panel/,301,0,1,"2026-10-26 19:02:56",active
 /sign-in,https://benlifood.ir/?elementor_library=deh-homepage,301,0,1,"2026-10-26 19:02:55",active
-/app,https://benlifood.ir/?cms_block=pop-up,301,0,2,"2026-10-26 19:02:57",active
+/app,https://benlifood.ir/?cms_block=pop-up,301,0,4,"2026-10-27 21:41:48",active
 /elmah/v2,https://benlifood.ir/?elementor_library=%d9%87%d8%af%d8%b1-%d8%af%d8%b3%da%a9%d8%aa%d8%a7%d9%be-%d8%a8%d9%86%d9%84%db%8c-2,301,0,0,,active
 /compare?product_id=12362,https://benlifood.ir/summer-and-fermented-vegetables/,301,0,0,,active
 /f6.php,https://benlifood.ir/woodmart_layout/%d9%86%d9%88%d8%b4%d8%aa%d9%87-%d8%aa%da%a9%db%8c-%d8%b7%d8%b1%d8%ad/,301,0,0,,active
@@ -196,9 +196,9 @@ source,target,type,regex,hits,last_hit,status
 /kj.php,https://benlifood.ir/product/%d9%be%da%a9-%db%8c%da%a9%d9%85%d8%a7%d9%87%d9%87-%d8%b3%d9%84%d8%a7%d9%85%d8%aa-%d8%b1%d9%88%d8%af%d9%87-%d9%88-%da%af%d9%88%d8%a7%d8%b1%d8%b4-%d8%a8%d9%86%d9%84%db%8c/,301,0,0,,active
 /ffs.php,https://benlifood.ir/woodmart_layout/megaelectronic_product-archive-layout-shop/,301,0,0,,active
 /ano.php,https://benlifood.ir/olive-oil-dressing/,301,0,0,,active
-/@vite/env,https://benlifood.ir/?cms_block=sticky-navigation-laptops-tablets-pcs,301,0,0,,active
-/graphql/api,https://benlifood.ir/?elementor_library=deh-homepage,301,0,0,,active
-/v2/_catalog,https://benlifood.ir/,301,0,0,,active
+/@vite/env,https://benlifood.ir/?cms_block=sticky-navigation-laptops-tablets-pcs,301,0,1,"2026-10-27 21:28:55",active
+/graphql/api,https://benlifood.ir/?elementor_library=deh-homepage,301,0,1,"2026-10-27 21:28:45",active
+/v2/_catalog,https://benlifood.ir/,301,0,1,"2026-10-27 21:28:35",active
 /19.php,https://benlifood.ir/?elementor_library=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d9%88%d8%b1-%d8%a8%d8%a7%db%8c%da%af%d8%a7%d9%86%db%8c-%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa-15356,301,0,0,,active
 /g1.php,https://benlifood.ir/%da%86%da%af%d9%88%d9%86%d9%87-%d8%b3%d8%a7%d9%88%d8%b1%da%a9%d8%b1%d8%a7%d8%aa-%d8%b1%d8%a7-%d9%85%d8%b5%d8%b1%d9%81-%da%a9%d9%86%db%8c%d9%85%d8%9f-%d8%a8%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d8%b1%d9%88/,301,0,0,,active
 /x2.php,https://benlifood.ir/?elementor_library=product-archive2,301,0,0,,active
