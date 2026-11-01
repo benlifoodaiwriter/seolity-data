@@ -31,7 +31,7 @@
     "cli_auth_codex": "plugin",
     "cli_codex_home": "",
     "host_region": "abroad",
-    "ai_route": "auto",
+    "ai_route": "cloudflare",
     "route_google": true,
     "ai_effort": "max",
     "ai_effort_anthropic": "auto",
@@ -41,7 +41,7 @@
     "ai_effort_gemini": "auto",
     "ai_effort_ollama": "auto",
     "ai_effort_custom": "auto",
-    "ai_effort_sub_claude": "max",
+    "ai_effort_sub_claude": "medium",
     "ai_effort_sub_codex": "auto",
     "ollama_base_url": "http:\/\/localhost:11434",
     "custom_base_url": "https:\/\/{RESOURCE}.openai.azure.com\/openai\/deployments\/{DEPLOYMENT}",
@@ -75,7 +75,7 @@
     "crawl_batch_size": 8,
     "crawl_check_external": false,
     "crawl_frequency": "weekly",
-    "crawl_timeout": 15,
+    "crawl_timeout": 60,
     "thin_content_words": 300,
     "competitor_max_pages": 200,
     "serp_source": "serpapi",
@@ -88,7 +88,9 @@
     "alert_email_enabled": true,
     "alert_drop_percent": 25,
     "report_frequency": "daily",
-    "report_recipients": [],
+    "report_recipients": [
+        "ariagh1386.work@gmail.com"
+    ],
     "sitemap_enabled": "on",
     "sitemap_exclude_types": [
         "attachment"

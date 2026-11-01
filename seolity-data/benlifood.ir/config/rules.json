@@ -1,1 +1,81 @@
-[]
+[
+    {
+        "id": "3",
+        "project_id": "1",
+        "name": "انتشار بدون توضیحات متا ← نوشتن آن",
+        "trigger_event": "content_published",
+        "conditions": [
+            {
+                "field": "meta_description_missing",
+                "op": "=",
+                "value": "1"
+            }
+        ],
+        "actions": [
+            {
+                "type": "optimize_meta"
+            }
+        ],
+        "mode": "auto",
+        "enabled": "1",
+        "run_count": "0",
+        "last_run": null,
+        "created_at": "2026-10-31 16:09:48"
+    },
+    {
+        "id": "2",
+        "project_id": "1",
+        "name": "CTR کمتر از ۱٪ با بیش از ۵۰۰ نمایش ← بازنویسی عنوان + متا",
+        "trigger_event": "daily",
+        "conditions": [
+            {
+                "field": "ctr_lt",
+                "op": "<",
+                "value": "1"
+            },
+            {
+                "field": "impressions_gt",
+                "op": ">",
+                "value": "500"
+            }
+        ],
+        "actions": [
+            {
+                "type": "optimize_meta"
+            }
+        ],
+        "mode": "suggest",
+        "enabled": "1",
+        "run_count": "0",
+        "last_run": null,
+        "created_at": "2026-10-31 16:09:18"
+    },
+    {
+        "id": "1",
+        "project_id": "1",
+        "name": "تصویر محصول بدون ALT ← تولید ALT",
+        "trigger_event": "daily",
+        "conditions": [
+            {
+                "field": "post_type",
+                "op": "=",
+                "value": "product"
+            },
+            {
+                "field": "missing_alt",
+                "op": "=",
+                "value": "1"
+            }
+        ],
+        "actions": [
+            {
+                "type": "generate_alt"
+            }
+        ],
+        "mode": "auto",
+        "enabled": "1",
+        "run_count": "26",
+        "last_run": "2026-11-01 02:03:44",
+        "created_at": "2026-10-31 16:08:56"
+    }
+]
