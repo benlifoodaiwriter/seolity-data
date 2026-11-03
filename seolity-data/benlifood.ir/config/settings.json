@@ -86,6 +86,9 @@
     "serp_track_queries": 25,
     "alert_email": "ariagh1386.work@gmail.com",
     "alert_email_enabled": true,
+    "alert_emails": "ariagh1386.work@gmail.com",
+    "alert_email_mode": "instant",
+    "alert_email_kinds": "warning,result,success,ai,info",
     "alert_drop_percent": 25,
     "report_frequency": "daily",
     "report_recipients": [
