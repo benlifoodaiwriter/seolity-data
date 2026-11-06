@@ -1,3 +1,6 @@
 {"user_id":"0","action":"audit_started","object_type":"audit","object_id":"1","details":"{\"type\":\"full\"}","created_at":"2026-10-05 15:35:34"}
 {"user_id":"0","action":"audit_completed","object_type":"audit","object_id":"1","details":"{\"urls\":1771}","created_at":"2026-10-05 16:15:26"}
 {"user_id":"287","action":"secret_updated","object_type":"settings","object_id":null,"details":"{\"key\":\"github_token\",\"cleared\":false}","created_at":"2026-10-05 18:54:43"}
+{"user_id":"0","action":"audit_started","object_type":"audit","object_id":"2","details":"{\"type\":\"incremental\"}","created_at":"2026-10-06 00:52:10"}
+{"user_id":"0","action":"audit_completed","object_type":"audit","object_id":"2","details":"{\"urls\":1771}","created_at":"2026-10-06 00:52:34"}
+{"user_id":"0","action":"report_generated","object_type":"report","object_id":"4","details":"{\"type\":\"weekly\"}","created_at":"2026-10-06 15:33:51"}
