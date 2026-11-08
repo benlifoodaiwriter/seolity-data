@@ -66,7 +66,7 @@
     "ai_content_language": "auto",
     "ai_brand_voice": "",
     "ai_use_knowledge": true,
-    "ai_media_on_upload": true,
+    "ai_media_on_upload": false,
     "gsc_client_id": "1083347094893-etb4pvjf0dib544t0vcqt461rtb58fck.apps.googleusercontent.com",
     "gsc_property": "sc-domain:benlifood.ir",
     "gsc_sync_days": 90,
