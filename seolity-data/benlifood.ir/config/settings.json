@@ -116,6 +116,8 @@
     "kb_branch": "main",
     "kb_path": "seolity\/knowledge",
     "kb_auto_sync": true,
+    "seo_market": "auto",
+    "index_watch_daily": 60,
     "kb_contribute": false,
     "storage_enabled": true,
     "storage_repo": "benlifoodaiwriter\/seolity-data",
